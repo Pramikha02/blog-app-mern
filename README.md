@@ -47,6 +47,7 @@ This blog app is a full-stack application using the MERN stack. It allows users 
   npm install
 
 # Install frontend dependencies
+  ```bash
   cd ../frontend
   npm install
 
